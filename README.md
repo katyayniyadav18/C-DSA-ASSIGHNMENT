@@ -1,4 +1,4 @@
-# Data Structures in C++: Stack & Circular Queue
+# Data Structures in C: Stack & Circular Queue
 
 Array-based implementations of two fundamental data structures, with overflow/underflow handling and complexity analysis.
 
