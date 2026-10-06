@@ -78,7 +78,7 @@ A queue follows the **FIFO** (First In, First Out) principle. In a circular queu
 A circular queue reuses positions freed at the beginning of the array. In a linear queue, `REAR` can reach the last index even when unused positions exist at the beginning, causing a false overflow condition.
 
 **Katyayni Yadav**
-BCA Student, Invertis University
+Invertis University
 
 ## License
 
